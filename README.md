@@ -1,7 +1,7 @@
 # Truck-Drone-Tandem-Disaster-Relief-Instances
 A repository with instances used for the submitted paper "On delivery policies for a truck-and-drone tandem in disaster relief".
 
-Comments within an instance file start with **<** and end with **>** and have to be ignored by a parser.
+Comments within an instance file start with ```<``` and end with ```>``` and have to be ignored by a parser.
 
 You are kindly requested to cite this paper if these instances are relevant to your research. 
 
