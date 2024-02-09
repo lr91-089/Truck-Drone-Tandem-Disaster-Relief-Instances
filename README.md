@@ -1,4 +1,4 @@
-# TSP-D-Disaster-Relief-Instances
+# Truck-Drone-Tandem-Disaster-Relief-Instances
 A repository with instances used for the submitted paper "On delivery policies for a truck-and-drone tandem in disaster relief".
 
 Comments within an instances file start with **<** and end with **>** and have to be ignore by a parser.
